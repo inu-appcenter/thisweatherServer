@@ -8,7 +8,7 @@ var parser = new xml2js.Parser();
 
 /* 중기날씨 정보 조회 */
 router.get('/', function(req, res,next){
-  var midTerm = fs.readFileSync('./public/xml/midtermWeather.xml', 'utf-8');
+  var midTerm = fs.readFileSync('./public/data/midtermWeather.xml', 'utf-8');
   parser.parseString(midTerm, function(err, result) {
     var toStringMidTerm = JSON.stringify(result);
     var parseMidTerm = JSON.parse(toStringMidTerm);

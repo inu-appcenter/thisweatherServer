@@ -7,7 +7,7 @@ var fs = require('fs');
 
 /* Update 시간 조회 */
 router.get('/', function(req, res, next) {
-  var updateLog = fs.readFileSync(__dirname + '/log.txt', 'utf-8');
+  var updateLog = fs.readFileSync('./public/data/log.txt', 'utf-8');
   res.send(updateLog);
 });
 

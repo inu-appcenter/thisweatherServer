@@ -7,7 +7,7 @@ var fs = require('fs');
 
 /* 지역날씨 정보 조회 */
 router.get('/', function(req, res,next){
-    var openWeather = fs.readFileSync('./public/xml/localWeather.xml', 'utf-8');
+    var openWeather = fs.readFileSync('./public/data/localWeather.xml', 'utf-8');
     parser.parseString(openWeather, function(err, result) {
       res.send(JSON.stringify(result));
     });

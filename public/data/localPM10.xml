@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			
+				<item>
+					<dataTime>2019-08-27 12:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.057</o3Value>
+					<no2Value>0.017</no2Value>
+					<pm10Value>25</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 11:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.047</o3Value>
+					<no2Value>0.019</no2Value>
+					<pm10Value>25</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 10:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.035</o3Value>
+					<no2Value>0.026</no2Value>
+					<pm10Value>23</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 09:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.027</o3Value>
+					<no2Value>0.035</no2Value>
+					<pm10Value>21</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>1</o3Grade>
+					<no2Grade>2</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 08:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.027</o3Value>
+					<no2Value>0.033</no2Value>
+					<pm10Value>14</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>1</o3Grade>
+					<no2Grade>2</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 07:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.037</o3Value>
+					<no2Value>0.021</no2Value>
+					<pm10Value>15</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 06:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.049</o3Value>
+					<no2Value>0.010</no2Value>
+					<pm10Value>18</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 05:00</dataTime>
+					
+					<so2Value>0.002</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.059</o3Value>
+					<no2Value>0.007</no2Value>
+					<pm10Value>20</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>2</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 04:00</dataTime>
+					
+					<so2Value>0.003</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.074</o3Value>
+					<no2Value>0.006</no2Value>
+					<pm10Value>28</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>2</pm10Grade>
+					
+                    
+				</item>
+			
+				<item>
+					<dataTime>2019-08-27 03:00</dataTime>
+					
+					<so2Value>0.003</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.070</o3Value>
+					<no2Value>0.009</no2Value>
+					<pm10Value>32</pm10Value>
+					
+					
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>2</pm10Grade>
+					
+                    
+				</item>
+			
+		</items>
+			<numOfRows>10</numOfRows>
+			<pageNo>1</pageNo>
+			<totalCount>683</totalCount>
+	</body>
+</response>
